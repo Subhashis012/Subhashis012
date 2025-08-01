@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **interesting projects**
 
-- 💬 Ask me about **C, Python, HTML, CSS, JavaScript,TypeScript, Tailwind CSS, React**
+- 💬 Ask me about **C, Java, Python, HTML, CSS, JavaScript,TypeScript, Tailwind CSS, React**
 
 - 📫 How to reach me **subhashisdhara123@gmail.com**
 
